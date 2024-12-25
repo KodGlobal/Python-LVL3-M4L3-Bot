@@ -31,7 +31,7 @@ Which country is the most densely populated among countries with a population of
 Bangladesh
 
 How many countries have capitals that begin with the letter B?
-24
+25
 
 ---
 
