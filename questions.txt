@@ -1,0 +1,51 @@
+What is the capital of Samoa?
+Apia
+
+How many total continents are there in the Database?
+6
+
+What is the name of the column that is responsible for the area?
+area
+
+Which key value links the countries table with the information about them?
+country_id
+
+Find the smallest country by area
+Vatican City
+
+---
+
+Which country has the highest population density?
+Monaco
+
+On which continent is the country with the capital Basseterre located?
+North America
+
+How many countries are there in Africa?
+53
+
+What is the capital of a country with a population of 1500001?
+Manama
+
+Which country is the most densely populated among countries with a population of more than 10 million and an area of less than 8 million square kilometers?
+Bangladesh
+
+How many countries have capitals that begin with the letter B?
+24
+
+---
+
+Which continent has the smallest average population density?
+South America
+
+What is the total area of all countries in Australia and Oceania?
+8490640.4
+
+In the info table, there are several countries the percentage of population of which, in relation to the Earth's population, is zero. Determine which one of these countries has the longest capital city name, and enter this country's population in the answer.
+81588
+
+Which country has its name ending in 'ia', is located in Oceania, and has the smallest population in the?
+Микронезия
+
+Determine the average population of the first 10 countries in Europe, that sorted by population density (in ascending order). Enter the integer as your answer.
+17045185
